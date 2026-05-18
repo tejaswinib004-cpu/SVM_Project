@@ -68,11 +68,11 @@ A simple web app was created using Streamlit.
 ---
 
 # ⚙️ Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-Streamlit
+Python, 
+Pandas, 
+NumPy, 
+Scikit-learn, 
+Streamlit.
 
 ---
 
