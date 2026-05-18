@@ -80,16 +80,6 @@ A simple web app was created using Streamlit.
 
 ---
 
-## 📁 Project Structure
-├── medical_Diagnosis_dataset.csv
-├── task.ipynb
-├── streamlit_app.py
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 📈 Result
 
 - Successfully built a classification model
